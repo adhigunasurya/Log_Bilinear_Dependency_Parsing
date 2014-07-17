@@ -1,0 +1,57 @@
+parameters_each_epoch_trial_3
+#ifndef FEATURE_SIZE
+#define FEATURE_SIZE 5
+#endif
+
+#ifndef NO_OF_POSTAGS
+#define NO_OF_POSTAGS 50
+#endif
+
+#ifndef MAX_DISTANCE
+#define MAX_DISTANCE 49
+#endif
+
+#ifndef BATCH_SIZE
+#define BATCH_SIZE 100
+#endif
+
+#ifndef LEARNING_RATE
+#define LEARNING_RATE 0.005
+#endif
+
+#ifndef LEARNING_DECAY
+#define LEARNING_DECAY 0.00001
+#endif
+
+#ifndef NO_OF_EPOCH
+#define NO_OF_EPOCH 10
+#endif
+
+parameters_each_epoch_trial_1
+#ifndef FEATURE_SIZE
+#define FEATURE_SIZE 5
+#endif
+
+#ifndef NO_OF_POSTAGS
+#define NO_OF_POSTAGS 50
+#endif
+
+#ifndef MAX_DISTANCE
+#define MAX_DISTANCE 49
+#endif
+
+#ifndef BATCH_SIZE
+#define BATCH_SIZE 100
+#endif
+
+#ifndef LEARNING_RATE
+#define LEARNING_RATE 0.05
+#endif
+
+#ifndef LEARNING_DECAY
+#define LEARNING_DECAY 0.00001
+#endif
+
+#ifndef NO_OF_EPOCH
+#define NO_OF_EPOCH 10
+#endif
